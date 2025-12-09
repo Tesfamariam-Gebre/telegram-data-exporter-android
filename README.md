@@ -1,6 +1,6 @@
 # Telegram Data Exporter for Android
 
-A complete, production-ready implementation of Telegram's Takeout API for Android, allowing users to export their Telegram data including chats, contacts, media, stories, profile pictures, and more. This feature was developed for [Boltgram](https://github.com/Tesfamariam-Gebre/boltgram) and is ready to be contributed upstream to the official Telegram Android client.
+A complete, production-ready implementation of Telegram's Takeout API for Android, allowing users to export their Telegram data including chats, contacts, media, stories, profile pictures, and more. This feature was developed for [Boltgram](https://github.com/Tesfamariam-Gebre/Boltgram7.8.1) and is ready to be contributed upstream to the official Telegram Android client.
 
 ## 📸 Screenshots
 
@@ -251,7 +251,7 @@ This feature was developed as part of the Boltgram project and is available for 
 - [Telegram API Documentation](https://core.telegram.org/api)
 - [MTProto Protocol](https://core.telegram.org/mtproto)
 - [Telegram Android Source](https://github.com/DrKLO/Telegram)
-- [Boltgram Project](https://github.com/yourusername/boltgram)
+- [Boltgram Project](https://github.com/Tesfamariam-Gebre/Boltgram7.8.1)
 
 ## ⚠️ Important Notes
 
