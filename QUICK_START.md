@@ -2,11 +2,13 @@
 
 ## Three Ways to Submit
 
-### 1️⃣ GitHub Discussion (Easiest - Start Here!)
+### 1️⃣ GitHub Issue (Easiest - Start Here!)
 
-**Go to:** https://github.com/DrKLO/Telegram/discussions
+**Note:** The Telegram Android repository doesn't have Discussions enabled. Use Issues instead.
 
-**Click:** "New Discussion" → "Ideas"
+**Go to:** https://github.com/DrKLO/Telegram/issues
+
+**Click:** "New Issue"
 
 **Copy this:**
 
@@ -56,7 +58,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## ⏱️ What to Expect
 
-- Discussion response: 1-4 weeks
+- Issue response: 1-4 weeks
 - PR review: 2-8 weeks
 - Be patient! Large projects move slowly.
 

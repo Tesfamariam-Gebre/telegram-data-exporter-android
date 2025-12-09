@@ -206,10 +206,11 @@ This implementation is designed to be contributed to the official Telegram Andro
 
 ### Quick Start
 
-1. **Start with a Discussion** (Recommended)
-   - Go to: https://github.com/DrKLO/Telegram/discussions
-   - Create a new "Ideas" discussion
+1. **Start with a GitHub Issue** (Recommended)
+   - Go to: https://github.com/DrKLO/Telegram/issues
+   - Click "New Issue" and create a feature request
    - Describe the feature and link to this repo
+   - **Note:** The repository doesn't have Discussions enabled, so use Issues instead
 
 2. **Or Submit a Pull Request**
    - Fork: https://github.com/DrKLO/Telegram

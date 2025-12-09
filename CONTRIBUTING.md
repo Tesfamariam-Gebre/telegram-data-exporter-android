@@ -17,13 +17,15 @@ Before submitting, ensure:
 
 ## 🎯 Submission Strategy
 
-### Option 1: Start with a Discussion (Recommended)
+### Option 1: Start with a GitHub Issue (Recommended)
 
-**Why start with a discussion?**
+**Why start with an issue?**
 - Get feedback from maintainers before writing code
 - Align with Telegram's design philosophy
 - Understand their review process
 - Avoid wasted effort if they have different plans
+
+**Note:** The Telegram Android repository doesn't have Discussions enabled, so use Issues instead.
 
 ### Option 2: Direct Pull Request
 
@@ -84,19 +86,14 @@ git checkout -b feature/telegram-data-exporter
 - [ ] Test with RTL languages
 - [ ] Test on tablets and phones
 
-### Step 5: Create a Discussion (Recommended First Step)
+### Step 5: Create a GitHub Issue (Recommended First Step)
 
-Go to: https://github.com/DrKLO/Telegram/discussions
+Go to: https://github.com/DrKLO/Telegram/issues
 
-**Discussion Title:**
-```
-[Feature Request] Telegram Data Export Feature
-```
-
-**Discussion Body Template:**
+**Click "New Issue"** and use this template:
 
 ```markdown
-## Feature: Telegram Data Export
+## Feature Request: Telegram Data Export
 
 ### Overview
 I've implemented a complete Telegram data export feature that allows users to export their chats, contacts, media, stories, and other data in CSV/JSON formats.
@@ -176,9 +173,9 @@ This PR adds a complete Telegram data export feature using the Takeout API, allo
 - [x] Verified data integrity
 - [x] Tested with large accounts
 
-## Related Issues/Discussions
+## Related Issues
 Closes #[issue-number] (if applicable)
-Related to #[discussion-number]
+Related to #[issue-number]
 
 ## Checklist
 - [x] Code follows project style guidelines
@@ -226,8 +223,8 @@ Related to #[discussion-number]
 ### Telegram Android Repository
 - **Main Repo**: https://github.com/DrKLO/Telegram
 - **Issues**: https://github.com/DrKLO/Telegram/issues
-- **Discussions**: https://github.com/DrKLO/Telegram/discussions
 - **Pull Requests**: https://github.com/DrKLO/Telegram/pulls
+- **Note**: Discussions are not enabled, use Issues for feature requests
 
 ### Documentation
 - Telegram API: https://core.telegram.org/api
@@ -275,7 +272,7 @@ Ensure your contribution:
 
 ## 🔄 After Submission
 
-1. **Monitor the PR/Discussion**: Respond to comments promptly
+1. **Monitor the PR/Issue**: Respond to comments promptly
 2. **Make requested changes**: Be flexible with feedback
 3. **Keep your fork updated**: Rebase on upstream changes
 4. **Stay engaged**: Help with testing and documentation
